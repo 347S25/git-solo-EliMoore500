@@ -9,4 +9,5 @@
 1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it?
 1. Use git to stage your changes, commit your changes, and push your changes to your remote repository.
 1. Tell your repository to deploy to github pages (see the screenshot and caption below it in the `figure` in `index.html`)
+    (Could not figure out how to deploy to pages (my github looks different from the screenshot).)
 1. Does the page look the same as it looks when running on your local computer? If not, why not? What can you do to fix it?
